@@ -22,8 +22,7 @@ let tipoNumero = 42;
 let tipoBooleano = true;
 let tipoUndefined;
 let tipoNull = null;
-let tipoOggetto = { nome: "Mario", età: 30 };
-let tipoArray = [1, 2, 3, 4];
+
 /* ESERCIZIO 2
  Crea una variable chiamata "myName" e assegna ad essa il tuo nome, sotto forma di stringa.
 */
